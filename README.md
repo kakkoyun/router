@@ -1,2 +1,2 @@
 # router
-Yet another go router wrapper around https://github.com/julienschmidt/httprouter
+Yet another go router. A wrapper around https://github.com/julienschmidt/httprouter
